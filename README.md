@@ -6,3 +6,5 @@ Features:
 - Red first person hand effect when hurt
 - YACL configuration support
 - Adjustable opacity
+
+Build trigger: GitHub Actions compile check.
