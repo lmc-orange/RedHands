@@ -1,14 +1,8 @@
 # RedHands
 
-Minecraft Java Edition Fabric 1.21.11 client mod.
+Fabric 1.21.11 mod.
 
 Features:
-- First person hand red effect when damaged
+- Red first person hand effect when hurt
 - YACL configuration support
-- Configurable opacity
-
-Build:
-
-```bash
-./gradlew build
-```
+- Adjustable opacity
